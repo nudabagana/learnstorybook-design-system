@@ -2,6 +2,19 @@
 
 #### ⚠️ Pushed to `master`
 
+- workflows push auto publish ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
+- v0.1.2 ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
+
+#### Authors: 1
+
+- [@MatasRamanauskas](https://github.com/MatasRamanauskas)
+
+---
+
+# v0.1.2 (Wed Jul 13 2022)
+
+#### ⚠️ Pushed to `master`
+
 - v0.1.2 ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
 
 #### Authors: 1
