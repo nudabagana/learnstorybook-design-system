@@ -80,6 +80,9 @@
     "cross-env": "^7.0.3",
     "prettier": "^2.7.1"
   },
+  "resolutions": {
+    "babel-loader": "8.1.0"
+  },
   "readme": "ERROR: No README data found!",
   "description": "Storybook design systems tutorial",
   "main": "dist/index.js",
