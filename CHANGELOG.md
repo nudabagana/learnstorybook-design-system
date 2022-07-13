@@ -14,6 +14,18 @@
 
 #### ⚠️ Pushed to `master`
 
+- v0.1.2 ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
+
+#### Authors: 1
+
+- [@MatasRamanauskas](https://github.com/MatasRamanauskas)
+
+---
+
+# v0.1.2 (Wed Jul 13 2022)
+
+#### ⚠️ Pushed to `master`
+
 - v0.1.1 (matasramanauskas@gmail.com)
 - auto labels ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
 - gitignore updated ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
