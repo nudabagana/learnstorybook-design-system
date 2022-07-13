@@ -1,3 +1,16 @@
+# v0.2.0 (Wed Jul 13 2022)
+
+#### 🚀 Enhancement
+
+- Create avatar list component [#2](https://github.com/nudabagana/learnstorybook-design-system/pull/2) ([@MatasRamanauskas](https://github.com/MatasRamanauskas) [@nudabagana](https://github.com/nudabagana))
+
+#### Authors: 2
+
+- [@MatasRamanauskas](https://github.com/MatasRamanauskas)
+- Matas Ramanauskas ([@nudabagana](https://github.com/nudabagana))
+
+---
+
 # v0.1.7 (Wed Jul 13 2022)
 
 #### ⚠️ Pushed to `master`
