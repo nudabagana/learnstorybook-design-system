@@ -1,3 +1,16 @@
+# v0.1.6 (Wed Jul 13 2022)
+
+#### ⚠️ Pushed to `master`
+
+- Merge branch 'master' of github.com:nudabagana/learnstorybook-design-system ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
+- exports fix ([@MatasRamanauskas](https://github.com/MatasRamanauskas))
+
+#### Authors: 1
+
+- [@MatasRamanauskas](https://github.com/MatasRamanauskas)
+
+---
+
 # v0.1.2 (Wed Jul 13 2022)
 
 #### ⚠️ Pushed to `master`
