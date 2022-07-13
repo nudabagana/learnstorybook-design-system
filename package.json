@@ -1,6 +1,6 @@
 {
   "name": "@nudabagana/learnstorybook-design-system",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -81,7 +81,6 @@
     "prettier": "^2.7.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0",
   "description": "Storybook design systems tutorial",
   "main": "index.js",
   "repository": "git@github.com:nudabagana/learnstorybook-design-system.git",
